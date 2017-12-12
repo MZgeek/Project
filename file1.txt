@@ -2,3 +2,4 @@ this is a code.
 version 1 from zaki
 the bug is fixed
 I will fix this bug
+bug fixed
